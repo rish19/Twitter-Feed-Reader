@@ -12,6 +12,7 @@
 		F4B9DEFD22A648A200FC1835 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4B9DEFB22A648A200FC1835 /* Main.storyboard */; };
 		F4B9DEFF22A648A300FC1835 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4B9DEFE22A648A300FC1835 /* Assets.xcassets */; };
 		F4B9DF0222A648A300FC1835 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4B9DF0022A648A300FC1835 /* LaunchScreen.storyboard */; };
+		F4B9DF0A22A671D100FC1835 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4B9DF0922A671D100FC1835 /* MyTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F4B9DEFE22A648A300FC1835 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4B9DF0122A648A300FC1835 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4B9DF0322A648A300FC1835 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4B9DF0922A671D100FC1835 /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				F4B9DEF722A648A200FC1835 /* AppDelegate.swift */,
 				F4B9DEF922A648A200FC1835 /* ViewController.swift */,
 				F4B9DEFB22A648A200FC1835 /* Main.storyboard */,
+				F4B9DF0922A671D100FC1835 /* MyTableViewCell.swift */,
 				F4B9DEFE22A648A300FC1835 /* Assets.xcassets */,
 				F4B9DF0022A648A300FC1835 /* LaunchScreen.storyboard */,
 				F4B9DF0322A648A300FC1835 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				F4B9DEFA22A648A200FC1835 /* ViewController.swift in Sources */,
 				F4B9DEF822A648A200FC1835 /* AppDelegate.swift in Sources */,
+				F4B9DF0A22A671D100FC1835 /* MyTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
